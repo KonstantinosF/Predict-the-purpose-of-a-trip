@@ -2,6 +2,7 @@
 In this project I try to predict the purpose of a trip utilising a Random Forest
 
 At this project I analyze the movement trajectories of a real, but anonymized dataset of different commuters using Machine Learning.
+
 Activities to be prediced.
 
 • Work
