@@ -27,3 +27,5 @@ The provided data sets contain the following fields:
 • day
 
 This project is the result of an assignment, during the course GIS III, at ETH Zurich.
+
+<h3>Unfortunatelly, I haven't received yet the approval from ETH for publishing the data I used to build this project.</h3>
