@@ -28,4 +28,4 @@ The provided data sets contain the following fields:
 
 This project is the result of an assignment, during the course GIS III, at ETH Zurich.
 
-<h3>Unfortunatelly, I haven't received yet the approval from ETH for publishing the data I used to build this project.</h3>
+<h5>Unfortunatelly, I haven't received yet the approval from ETH about publishing the data I used to build this project.</h5>
